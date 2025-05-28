@@ -1,0 +1,23 @@
+.aboutDiv{
+    /* margin: 50px 0 30px; */
+    height: 80vh;
+    background-color: #1abc9ce6;
+
+}
+
+.aboutDiv .seprate .line{
+    height: 4px;
+    width: 80px;
+    background-color: white !important;
+    
+}
+
+
+
+
+@media screen and (max-width:1000px) {
+    .aboutDiv .col-md-6{
+        margin-bottom: 30px;
+    }
+
+}
